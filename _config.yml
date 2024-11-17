@@ -1,64 +1,66 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://rundowntown.github.io
+baseurl: /Gallop
 
-# Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+######## Site settings ########
+title: Gallop
+email: contact@gallopstartup.com
+description: "Gallop is an innovative startup building analytics and visualization tools to bridge policy and public sentiment."
 
-
-# Team names, titles and social links
+######## Team names, titles and social links ########
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Daniel Forcade
+  pic: daniel
+  position: Co-Founder & Data Architect
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: 
+    - title: github
+      url: https://github.com/rundowntown
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Steven Wasserman
+  pic: steven
+  position: Co-Founder & Technical Lead
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: 
+    - title: github
+      url: 
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Ryan Hopkins
+  pic: ryan
+  position: Co-Founder & Machine Learning Engineer
   social:
+    - title: github
+      url: 
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: 
+
+- name: Hanna Bodnar
+  pic: hanna
+  position: Co-Founder & Front-End Developer
+  social:
+    - title: linkedin
+      url: 
+    - title: instagram
+      url: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/The-Policy-Posse
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: 
 
 # Build settings
 markdown: kramdown
